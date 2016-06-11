@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "ws-butler" "ws-butler.el" (22294 1690 678178
-;;;;;;  584000))
+;;;### (autoloads nil "ws-butler" "ws-butler.el" (22341 36022 723548
+;;;;;;  462000))
 ;;; Generated autoloads from ws-butler.el
 
 (autoload 'ws-butler-mode "ws-butler" "\

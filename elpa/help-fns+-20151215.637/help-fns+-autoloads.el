@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "help-fns+" "help-fns+.el" (22294 1616 684823
-;;;;;;  841000))
+;;;### (autoloads nil "help-fns+" "help-fns+.el" (22341 35973 504118
+;;;;;;  720000))
 ;;; Generated autoloads from help-fns+.el
 
 (autoload 'describe-command "help-fns+" "\

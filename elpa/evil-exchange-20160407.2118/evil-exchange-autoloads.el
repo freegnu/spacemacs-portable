@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "evil-exchange" "evil-exchange.el" (22294 1556
-;;;;;;  173471 926000))
+;;;### (autoloads nil "evil-exchange" "evil-exchange.el" (22341 35939
+;;;;;;  188670 714000))
 ;;; Generated autoloads from evil-exchange.el
 
 (autoload 'evil-exchange "evil-exchange" "\

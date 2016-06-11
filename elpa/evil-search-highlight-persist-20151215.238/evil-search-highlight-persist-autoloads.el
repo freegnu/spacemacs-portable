@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "evil-search-highlight-persist" "evil-search-highlight-persist.el"
-;;;;;;  (22294 1579 814724 254000))
+;;;;;;  (22341 35951 992447 18000))
 ;;; Generated autoloads from evil-search-highlight-persist.el
 
 (autoload 'evil-search-highlight-persist "evil-search-highlight-persist" "\

@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "helm-mode-manager" "helm-mode-manager.el"
-;;;;;;  (22294 1609 700514 749000))
+;;;;;;  (22341 35970 200165 574000))
 ;;; Generated autoloads from helm-mode-manager.el
 
 (autoload 'helm-enable-minor-mode "helm-mode-manager" "\

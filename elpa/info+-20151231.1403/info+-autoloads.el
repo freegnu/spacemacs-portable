@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "info+" "info+.el" (22294 1628 293256 955000))
+;;;### (autoloads nil "info+" "info+.el" (22341 35981 360012 109000))
 ;;; Generated autoloads from info+.el
 
 (let ((loads (get 'Info-Plus 'custom-loads))) (if (member '"info+" loads) nil (put 'Info-Plus 'custom-loads (cons '"info+" loads))))

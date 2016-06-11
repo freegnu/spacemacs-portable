@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "popwin" "popwin.el" (22294 1677 574152 347000))
+;;;### (autoloads nil "popwin" "popwin.el" (22341 36016 287610 962000))
 ;;; Generated autoloads from popwin.el
 
 (autoload 'popwin:popup-buffer "popwin" "\
