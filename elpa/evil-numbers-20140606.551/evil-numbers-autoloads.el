@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "evil-numbers" "evil-numbers.el" (22341 35951
-;;;;;;  592453 684000))
+;;;### (autoloads nil "evil-numbers" "evil-numbers.el" (22212 25511
+;;;;;;  536141 780000))
 ;;; Generated autoloads from evil-numbers.el
 
 (autoload 'evil-numbers/inc-at-pt "evil-numbers" "\
